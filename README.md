@@ -1,16 +1,14 @@
-# Projet Collectif: Extension de Navigateur
+## Members
 
-## Membres
+- [Angie](https://github.com/Angielacagole)
+- [Timothée](https://github.com/TimotheeRoy)
+- [Alexandre](https://github.com/AlexandreBobis)
 
-- [Angie]
-- [Timothée]
-- [Alexandre]
-
-## Titre du projet
+## Project's title
 
 **Sober'up**
 
-## Description du projet
+## Description 
 
-Sober'up est une extension de navigateur qui permet de flouter des images ainsi que de remplacer du texte sensible à partir d'une liste de mots `alcools`.
-Elle possède une page d'acceuil thématisée et motivante ainsi qu'un compteur de temps depuis le dernier verre d'alcool.
+Sober'up is a chrome extension that can blur images and replace sensitive text from a predefined list of alcohol-related words.
+It features a themed, motivating home page and a counter showing the time since the last alcoholic drink.
